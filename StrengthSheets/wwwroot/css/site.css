@@ -9,7 +9,7 @@
     padding-left: 15px;
     padding-right: 15px;
 }
-.navbar navbar-inverse navbar-fixed-top {
+.navbar.navbar-inverse.navbar-fixed-top {
     padding: 0 15px;
     height: 80px;
     line-height: 80px;
