@@ -9,12 +9,17 @@
     padding-left: 15px;
     padding-right: 15px;
 }
-
+.navbar-brand {
+    padding: 0 15px;
+    height: 80px;
+    line-height: 80px;
+}
 /* Carousel */
 .carousel-caption p {
     font-size: 20px;
     line-height: 1.4;
 }
+
 
 /* Make .svg files in the carousel display properly in older browsers */
 .carousel-inner .item img[src$=".svg"] {
