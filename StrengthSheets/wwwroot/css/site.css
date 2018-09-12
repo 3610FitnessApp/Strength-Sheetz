@@ -19,10 +19,10 @@
     line-height: 0px;
 }
 .navbar-header {
-    height: 80px;
+    height: 100px;
 }
 .navbar-left {
-    height: 80px;
+    height: 100px;
 }
 .navbar-toggle {
     /* (80px - button height 34px) / 2 = 23px */
@@ -33,9 +33,9 @@
 @media (min-width: 768px) {
     .navbar-nav > li > a {
         /* (80px - line-height of 27px) / 2 = 26.5px */
-        padding-top: 26.5px;
-        padding-bottom: 26.5px;
-        line-height: 27px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        line-height: 100px;
     }
     /* Carousel */
     .carousel-caption p {
